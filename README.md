@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakib.ang3@gmail.com)](mailto:rakib.ang3@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/druvo/)](https://github.com/rakib01/)
 
-I'm a software engineer who is passionate about Programming💻. I'm Experienced with all stages of the development cycle for dynamic web applications. Well-versed in numerous programming languages including  Python, JavaScript, SQL. I have experience in developing and implementing REST and SOAP APIs in applications. 
+Python Enthusiast | Like to work on web applications using latest web technology like Python, Django, ReactJS | Want to learn Data Science, Machine Learning, AI
 
 <br />
 
