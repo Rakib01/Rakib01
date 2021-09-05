@@ -48,7 +48,8 @@ Python Enthusiast | Like to work on web applications using latest web technology
 - ⚡️ Fun fact: Dont Talk about Crush I only Know About App Crush
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rakib01&show_icons=true&hide_border=true" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rakib01&theme=default&show_icons=true&count_private=true)
+
 <br />
 <br />
 
@@ -57,6 +58,6 @@ Python Enthusiast | Like to work on web applications using latest web technology
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rakib_ang3?style=social)](https://twitter.com/rakib_ang3)
-[visitors](https://visitor-badge.glitch.me/badge?page_id=rakib01.rakib01)
+
 
 
